@@ -1,0 +1,7 @@
+"","avg_growth","start_income","avg_investment","avg_pop_growth","avg_human_cap","avg_tfp_growth"
+"avg_growth",1,-0.66,-0.06,-0.32,-0.11,0.81
+"start_income",-0.66,1,0.44,0.29,0.46,-0.42
+"avg_investment",-0.06,0.44,1,0.17,0.26,0
+"avg_pop_growth",-0.32,0.29,0.17,1,-0.15,-0.53
+"avg_human_cap",-0.11,0.46,0.26,-0.15,1,0.29
+"avg_tfp_growth",0.81,-0.42,0,-0.53,0.29,1
